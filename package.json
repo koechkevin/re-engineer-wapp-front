@@ -11,7 +11,7 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
     "@types/react-textarea-autosize": "^4.3.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "moment": "^2.24.0",
     "node-sass": "^4.14.0",
     "rc-select": "^10.2.4",
