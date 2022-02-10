@@ -13,7 +13,7 @@
     "@types/react-textarea-autosize": "^4.3.5",
     "axios": "^0.19.2",
     "moment": "^2.24.0",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "rc-select": "^10.2.4",
     "rc-tooltip": "^4.0.3",
     "react": "^16.13.1",
